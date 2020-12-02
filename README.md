@@ -1,4 +1,4 @@
-# report-plus
+# Report Plus
 kintoneでチームレポートを一瞬で見やすくまとめるプログラム
 
 |Report|Detail|
