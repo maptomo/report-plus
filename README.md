@@ -15,7 +15,7 @@ kintoneでチームレポートを一瞬で見やすくまとめるプログラ�
 - [Marked.js](https://marked.js.org/)
 
 # Blog
-- [kintone Advent Calendar 2020]()
+- [kintone Advent Calendar 2020](https://qiita.com/ushiron/items/4c5854ff8ef9b57a27c3)
 
 # License
 MIT
